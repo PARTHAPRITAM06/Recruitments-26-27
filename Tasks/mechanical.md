@@ -1,6 +1,6 @@
 ![Team Banner](/images/Team%20Banner.png)
 
-# Mechanical Recruitment Task 2025-26
+# Mechanical Recruitment Task 2026-27
 
 ## Introduction to Mechanical Design and Assembly
 
